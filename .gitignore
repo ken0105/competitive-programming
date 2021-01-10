@@ -1,2 +1,10 @@
 /venv/*
 /.idea/*
+/a.py
+/b.py
+/c.py
+/d.py
+/e.py
+/f.py
+/main.py
+/test/*
