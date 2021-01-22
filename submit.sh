@@ -9,6 +9,7 @@ type=$2
 param=$3
 oj d https://atcoder.jp/contests/$contest/tasks/${contest}_${type}
 
+#oj t -e 1e-6 -c "python3 ${type}.py" | grep "FAILURE"
 oj t -c "python3 ${type}.py" | grep "FAILURE"
 
 if [ $? = 0 ];then
