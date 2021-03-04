@@ -1,0 +1,2 @@
+reformat:
+	./reformat.sh

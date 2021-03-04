@@ -1,0 +1,12 @@
+{
+	"id": 20648689,
+	"epoch_second": 1614855647,
+	"problem_id": "codefestival_2016_final_b",
+	"contest_id": "cf16-final",
+	"user_id": "kiwata",
+	"language": "PyPy3 (7.3.0)",
+	"point": 300,
+	"length": 199,
+	"result": "AC",
+	"execution_time": 83
+}
