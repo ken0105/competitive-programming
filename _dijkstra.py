@@ -18,7 +18,7 @@ def dijkstra(s, n, adj): # (始点, ノード数, 隣接リスト([ノード番�
     return dist
 
 def main():
-    n, e, s = map(int, input().split()) #ノード数, エッジ数, 始点ノード
+    n, e, s = map(int, input().split()) #ノード数(頂点の数), エッジ数, 始点ノード
     adj = [[] for _ in range(n)]
     for _ in range(e):
         n1, n2, w = map(int, input().split())
