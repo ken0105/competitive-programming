@@ -23,4 +23,4 @@ if [ $param = "test" ];then
   return
 fi
 
-oj s https://atcoder.jp/contests/$contest/tasks/${contest}_${type} ${type}.py
+oj s https://atcoder.jp/contests/${contest/tasks/${contest}_${type} ${type}.py --guess-python-interpreter pypy
