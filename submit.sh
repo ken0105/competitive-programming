@@ -19,8 +19,8 @@ else
   echo "テスト成功"
 fi
 
-if [ $param = "test" ];then
+if [ -n "$param" ] && [ $param = "test" ];then
   return
 fi
 
-oj s https://atcoder.jp/contests/${contest/tasks/${contest}_${type} ${type}.py --guess-python-interpreter pypy
+oj s https://atcoder.jp/contests/${contest}/tasks/${contest}_${type} ${type}.py --guess-python-interpreter pypy
