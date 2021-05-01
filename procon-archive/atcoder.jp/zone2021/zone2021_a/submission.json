@@ -1,0 +1,12 @@
+{
+	"id": 22243560,
+	"epoch_second": 1619888405,
+	"problem_id": "zone2021_a",
+	"contest_id": "zone2021",
+	"user_id": "kiwata",
+	"language": "Kotlin (1.3.71)",
+	"point": 100,
+	"length": 2308,
+	"result": "AC",
+	"execution_time": 95
+}
